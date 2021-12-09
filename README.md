@@ -3,7 +3,8 @@
 - 🌱 I’m currently a Junior majoring in Computer Science at San Jose State University
 - 📫 How to reach me:
   email: dongtandung2001@gmail.com
-  likeden: https://www.linkedin.com/in/danieldong2001/
+  
+  Linkeden: https://www.linkedin.com/in/danieldong2001/
 
 
 <!---
