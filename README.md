@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   email: dongtandung2001@gmail.com
   
-  Linkeden: https://www.linkedin.com/in/danieldong2001/
+  Linkedin: https://www.linkedin.com/in/danieldong2001/
 
 
 <!---
