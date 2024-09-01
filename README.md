@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dong Tan Dung, you guys can call me Daniel Dong
 - 👀 I’m interested in coding and playing FPS games.
-- 🌱 I’m currently taking MS in Software Engineer at San Jose State University
+- 🌱 I graduated in BS in Computer Science. I’m currently taking MS in Software Engineer at San Jose State University
 - 📫 How to reach me:
   email: dongtandung2001@gmail.com
   
